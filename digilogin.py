@@ -5,7 +5,7 @@ import requests, urllib3, json, pyfiglet
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # make the program more modern
-text = "K o o r i  D i g i l o g g e r"
+text = "A M I R I"
 
 ascii_banner = pyfiglet.figlet_format(text, width=200)
 print(ascii_banner)
